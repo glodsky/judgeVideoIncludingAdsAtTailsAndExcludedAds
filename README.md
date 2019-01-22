@@ -1,0 +1,2 @@
+# judgeVideoIncludingAdsAtTailsAndExcludedAds
+判断视频中是否插入了广告视频，并剔除广告
