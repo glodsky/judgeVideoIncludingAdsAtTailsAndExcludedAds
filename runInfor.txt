@@ -1,0 +1,1316 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============= RESTART: D:\do\judgeVideoIncludingAdsAtTails\me.py =============
+Need to cut video directory : D:\do\alltest\video2019-01-20
+0:2:19.00
+duration=00:02:25.50
+how_Long=0:2:19.00
+file_name=D:\do\alltest\video2019-01-20\4317155417668524\4317155417668524.mp4 file_path=D:\do\alltest\video2019-01-20\4317155417668524
+basename=4317155417668524.mp4
+new_name=D:\do\alltest\video2019-01-20\4317155417668524/4317155417668524_.mp4
+0:2:22.00
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(636, 360)
+D:\do\alltest\video2019-01-20\4317155417668524/tmp_pic_001__crop_.png
+(636, 360)
+D:\do\alltest\video2019-01-20\4317155417668524/tmp_pic_002__crop_.png
+(636, 360)
+D:\do\alltest\video2019-01-20\4317155417668524/tmp_pic_003__crop_.png
+(636, 360)
+D:\do\alltest\video2019-01-20\4317155417668524/tmp_pic_004__crop_.png
+(636, 360)
+D:\do\alltest\video2019-01-20\4317155417668524/tmp_pic_005__crop_.png
+(636, 360)
+D:\do\alltest\video2019-01-20\4317155417668524/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 102.05 [115.11381464 102.37067173  88.66357879]  91.00  4722.92  4600.00
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   91.77% ['46.82%', '296.55%', '166.67%']  81.98%  51.75%  波幅1122470.55%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:0:39.10
+duration=00:00:45.60
+how_Long=0:0:39.10
+file_name=D:\do\alltest\video2019-01-20\4329182081624652\4329182081624652.mp4 file_path=D:\do\alltest\video2019-01-20\4329182081624652
+basename=4329182081624652.mp4
+new_name=D:\do\alltest\video2019-01-20\4329182081624652/4329182081624652_.mp4
+0:0:42.10
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 352)
+D:\do\alltest\video2019-01-20\4329182081624652/tmp_pic_001__crop_.png
+(640, 352)
+D:\do\alltest\video2019-01-20\4329182081624652/tmp_pic_002__crop_.png
+(640, 352)
+D:\do\alltest\video2019-01-20\4329182081624652/tmp_pic_003__crop_.png
+(640, 352)
+D:\do\alltest\video2019-01-20\4329182081624652/tmp_pic_004__crop_.png
+(640, 352)
+D:\do\alltest\video2019-01-20\4329182081624652/tmp_pic_005__crop_.png
+(640, 352)
+D:\do\alltest\video2019-01-20\4329182081624652/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据  2.78 [2.78473899 2.6902832  2.87624734]  0.00  358.71  361.31
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   2.50% ['1.13%', '7.79%', '5.41%']  0.00%  3.93%  波幅88166.16%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:3:9.06
+duration=00:03:15.56
+how_Long=0:3:9.06
+file_name=D:\do\alltest\video2019-01-20\4329238024739710\4329238024739710.mp4 file_path=D:\do\alltest\video2019-01-20\4329238024739710
+basename=4329238024739710.mp4
+new_name=D:\do\alltest\video2019-01-20\4329238024739710/4329238024739710_.mp4
+0:3:12.06
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 368)
+D:\do\alltest\video2019-01-20\4329238024739710/tmp_pic_001__crop_.png
+(640, 368)
+D:\do\alltest\video2019-01-20\4329238024739710/tmp_pic_002__crop_.png
+(640, 368)
+D:\do\alltest\video2019-01-20\4329238024739710/tmp_pic_003__crop_.png
+(640, 368)
+D:\do\alltest\video2019-01-20\4329238024739710/tmp_pic_004__crop_.png
+(640, 368)
+D:\do\alltest\video2019-01-20\4329238024739710/tmp_pic_005__crop_.png
+(640, 368)
+D:\do\alltest\video2019-01-20\4329238024739710/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 117.30 [238.07298319  57.2479662   56.57730978]  117.67  8515.50  2108.10
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   105.49% ['96.83%', '165.84%', '106.36%']  106.01%  93.30%  波幅514407.42%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329238024739710/4329238024739710_.mp4 ]
+
+
+0:3:2.49
+duration=00:03:08.99
+how_Long=0:3:2.49
+file_name=D:\do\alltest\video2019-01-20\4329385349449068\4329385349449068.mp4 file_path=D:\do\alltest\video2019-01-20\4329385349449068
+basename=4329385349449068.mp4
+new_name=D:\do\alltest\video2019-01-20\4329385349449068/4329385349449068_.mp4
+0:3:5.49
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 480)
+D:\do\alltest\video2019-01-20\4329385349449068/tmp_pic_001__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329385349449068/tmp_pic_002__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329385349449068/tmp_pic_003__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329385349449068/tmp_pic_004__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329385349449068/tmp_pic_005__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329385349449068/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 67.84 [134.10298177  35.66958767  33.73710938]  114.67  8233.90  14994.28
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   61.01% ['54.54%', '103.33%', '63.42%']  103.30%  90.21%  波幅3658832.63%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:3:43.72
+duration=00:03:50.22
+how_Long=0:3:43.72
+file_name=D:\do\alltest\video2019-01-20\4329390420528827\4329390420528827.mp4 file_path=D:\do\alltest\video2019-01-20\4329390420528827
+basename=4329390420528827.mp4
+new_name=D:\do\alltest\video2019-01-20\4329390420528827/4329390420528827_.mp4
+0:3:46.72
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(852, 480)
+D:\do\alltest\video2019-01-20\4329390420528827/tmp_pic_001__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329390420528827/tmp_pic_002__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329390420528827/tmp_pic_003__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329390420528827/tmp_pic_004__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329390420528827/tmp_pic_005__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329390420528827/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 42.88 [57.58072917 35.42231514 35.65103678]  32.33  1681.93  2137.35
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   38.57% ['23.42%', '102.61%', '67.02%']  29.13%  18.43%  波幅521545.80%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:5:42.26
+duration=00:05:48.76
+how_Long=0:5:42.26
+file_name=D:\do\alltest\video2019-01-20\4329428375029767\4329428375029767.mp4 file_path=D:\do\alltest\video2019-01-20\4329428375029767
+basename=4329428375029767.mp4
+new_name=D:\do\alltest\video2019-01-20\4329428375029767/4329428375029767_.mp4
+0:5:45.26
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4329428375029767/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329428375029767/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329428375029767/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329428375029767/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329428375029767/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329428375029767/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 147.78 [157.52184085 154.49594311 131.33683402]  165.33  4554.33  6138.36
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   132.90% ['64.07%', '447.54%', '246.89%']  148.95%  49.90%  波幅1497853.74%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:0:59.20
+duration=00:01:05.70
+how_Long=0:0:59.20
+file_name=D:\do\alltest\video2019-01-20\4329429335842307\4329429335842307.mp4 file_path=D:\do\alltest\video2019-01-20\4329429335842307
+basename=4329429335842307.mp4
+new_name=D:\do\alltest\video2019-01-20\4329429335842307/4329429335842307_.mp4
+0:1:2.20
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 480)
+D:\do\alltest\video2019-01-20\4329429335842307/tmp_pic_001__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329429335842307/tmp_pic_002__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329429335842307/tmp_pic_003__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329429335842307/tmp_pic_004__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329429335842307/tmp_pic_005__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329429335842307/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 67.87 [134.27709635  35.56026042  33.7584592 ]  115.00  8246.22  15029.18
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   61.03% ['54.61%', '103.01%', '63.46%']  103.60%  90.35%  波幅3667347.64%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:5:14.74
+duration=00:05:21.24
+how_Long=0:5:14.74
+file_name=D:\do\alltest\video2019-01-20\4329457080923723\4329457080923723.mp4 file_path=D:\do\alltest\video2019-01-20\4329457080923723
+basename=4329457080923723.mp4
+new_name=D:\do\alltest\video2019-01-20\4329457080923723/4329457080923723_.mp4
+0:5:17.74
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(852, 480)
+D:\do\alltest\video2019-01-20\4329457080923723/tmp_pic_001__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329457080923723/tmp_pic_002__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329457080923723/tmp_pic_003__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329457080923723/tmp_pic_004__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329457080923723/tmp_pic_005__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4329457080923723/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.82 [242.36531201  60.85582942  59.24933001]  117.33  8488.02  1106.30
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.66% ['98.57%', '176.29%', '111.38%']  105.71%  93.00%  波幅269953.68%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329457080923723/4329457080923723_.mp4 ]
+
+
+0:6:0.69
+duration=00:06:07.19
+how_Long=0:6:0.69
+file_name=D:\do\alltest\video2019-01-20\4329466769409837\4329466769409837.mp4 file_path=D:\do\alltest\video2019-01-20\4329466769409837
+basename=4329466769409837.mp4
+new_name=D:\do\alltest\video2019-01-20\4329466769409837/4329466769409837_.mp4
+0:6:3.69
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329466769409837/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329466769409837/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329466769409837/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329466769409837/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329466769409837/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329466769409837/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.37 [242.37465278  58.19275174  57.55224392]  117.67  8435.11  1170.02
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.35% ['98.58%', '168.57%', '108.19%']  106.01%  92.42%  波幅285501.61%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329466769409837/4329466769409837_.mp4 ]
+
+
+0:7:46.67
+duration=00:07:53.17
+how_Long=0:7:46.67
+file_name=D:\do\alltest\video2019-01-20\4329473115505385\4329473115505385.mp4 file_path=D:\do\alltest\video2019-01-20\4329473115505385
+basename=4329473115505385.mp4
+new_name=D:\do\alltest\video2019-01-20\4329473115505385/4329473115505385_.mp4
+0:7:49.67
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329473115505385/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329473115505385/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329473115505385/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329473115505385/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329473115505385/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329473115505385/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.47 [242.26583333  58.46572483  57.67751736]  117.67  8430.38  1173.71
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.44% ['98.53%', '169.36%', '108.42%']  106.01%  92.37%  波幅286402.52%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329473115505385/4329473115505385_.mp4 ]
+
+
+0:4:20.02
+duration=00:04:26.52
+how_Long=0:4:20.02
+file_name=D:\do\alltest\video2019-01-20\4329525472487204\4329525472487204.mp4 file_path=D:\do\alltest\video2019-01-20\4329525472487204
+basename=4329525472487204.mp4
+new_name=D:\do\alltest\video2019-01-20\4329525472487204/4329525472487204_.mp4
+0:4:23.02
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4329525472487204/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329525472487204/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329525472487204/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329525472487204/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329525472487204/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329525472487204/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 93.64 [106.87296546  90.53131343  83.52905933]  81.00  4590.03  4652.72
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   84.22% ['43.47%', '262.25%', '157.02%']  72.97%  50.29%  波幅1135334.28%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:2:19.30
+duration=00:02:25.80
+how_Long=0:2:19.30
+file_name=D:\do\alltest\video2019-01-20\4329531185956201\4329531185956201.mp4 file_path=D:\do\alltest\video2019-01-20\4329531185956201
+basename=4329531185956201.mp4
+new_name=D:\do\alltest\video2019-01-20\4329531185956201/4329531185956201_.mp4
+0:2:22.30
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4329531185956201/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329531185956201/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329531185956201/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329531185956201/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329531185956201/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329531185956201/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 137.79 [136.45526932 139.15699649 137.74971946]  150.33  3507.19  2962.53
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   123.91% ['55.50%', '403.11%', '258.95%']  135.44%  38.43%  波幅722901.18%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:6:46.77
+duration=00:06:53.27
+how_Long=0:6:46.77
+file_name=D:\do\alltest\video2019-01-20\4329559224750679\4329559224750679.mp4 file_path=D:\do\alltest\video2019-01-20\4329559224750679
+basename=4329559224750679.mp4
+new_name=D:\do\alltest\video2019-01-20\4329559224750679/4329559224750679_.mp4
+0:6:49.77
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329559224750679/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329559224750679/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329559224750679/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329559224750679/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329559224750679/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329559224750679/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.62 [241.92861979  60.63439236  59.30943142]  117.67  8457.85  1178.17
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.48% ['98.40%', '175.65%', '111.49%']  106.01%  92.67%  波幅287490.60%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329559224750679/4329559224750679_.mp4 ]
+
+
+0:0:29.61
+duration=00:00:36.11
+how_Long=0:0:29.61
+file_name=D:\do\alltest\video2019-01-20\4329564211575310\4329564211575310.mp4 file_path=D:\do\alltest\video2019-01-20\4329564211575310
+basename=4329564211575310.mp4
+new_name=D:\do\alltest\video2019-01-20\4329564211575310/4329564211575310_.mp4
+0:0:32.61
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 480)
+D:\do\alltest\video2019-01-20\4329564211575310/tmp_pic_001__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329564211575310/tmp_pic_002__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329564211575310/tmp_pic_003__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329564211575310/tmp_pic_004__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329564211575310/tmp_pic_005__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329564211575310/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 67.85 [134.10102431  35.71422743  33.73996962]  114.67  8227.18  14977.38
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   61.02% ['54.54%', '103.46%', '63.43%']  103.30%  90.14%  波幅3654707.84%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:4:57.15
+duration=00:05:03.65
+how_Long=0:4:57.15
+file_name=D:\do\alltest\video2019-01-20\4329597103529642\4329597103529642.mp4 file_path=D:\do\alltest\video2019-01-20\4329597103529642
+basename=4329597103529642.mp4
+new_name=D:\do\alltest\video2019-01-20\4329597103529642/4329597103529642_.mp4
+0:5:0.15
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329597103529642/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329597103529642/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329597103529642/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329597103529642/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329597103529642/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329597103529642/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.66 [242.01616753  60.57181858  59.37777344]  117.67  8464.01  1178.60
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.51% ['98.43%', '175.46%', '111.62%']  106.01%  92.73%  波幅287595.86%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329597103529642/4329597103529642_.mp4 ]
+
+
+0:24:37.12
+duration=00:24:43.62
+how_Long=0:24:37.12
+file_name=D:\do\alltest\video2019-01-20\4329698190224667\4329698190224667.mp4 file_path=D:\do\alltest\video2019-01-20\4329698190224667
+basename=4329698190224667.mp4
+new_name=D:\do\alltest\video2019-01-20\4329698190224667/4329698190224667_.mp4
+0:24:40.12
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329698190224667/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329698190224667/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329698190224667/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329698190224667/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329698190224667/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329698190224667/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.61 [241.94080729  60.62560764  59.24913628]  117.67  8461.10  1180.74
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.46% ['98.40%', '175.62%', '111.38%']  106.01%  92.70%  波幅288117.56%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329698190224667/4329698190224667_.mp4 ]
+
+
+0:7:19.30
+duration=00:07:25.80
+how_Long=0:7:19.30
+file_name=D:\do\alltest\video2019-01-20\4329704464357514\4329704464357514.mp4 file_path=D:\do\alltest\video2019-01-20\4329704464357514
+basename=4329704464357514.mp4
+new_name=D:\do\alltest\video2019-01-20\4329704464357514/4329704464357514_.mp4
+0:7:22.30
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329704464357514/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329704464357514/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329704464357514/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329704464357514/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329704464357514/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329704464357514/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.61 [241.94249132  60.6271658   59.24934462]  117.67  8461.78  1183.21
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.46% ['98.40%', '175.63%', '111.38%']  106.01%  92.71%  波幅288720.84%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329704464357514/4329704464357514_.mp4 ]
+
+
+0:3:52.27
+duration=00:03:58.77
+how_Long=0:3:52.27
+file_name=D:\do\alltest\video2019-01-20\4329708185343800\4329708185343800.mp4 file_path=D:\do\alltest\video2019-01-20\4329708185343800
+basename=4329708185343800.mp4
+new_name=D:\do\alltest\video2019-01-20\4329708185343800/4329708185343800_.mp4
+0:3:55.27
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329708185343800/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329708185343800/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329708185343800/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329708185343800/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329708185343800/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329708185343800/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.37 [242.24262153  58.28351128  57.57149306]  117.67  8429.60  1170.61
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.35% ['98.52%', '168.84%', '108.23%']  106.01%  92.36%  波幅285645.44%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329708185343800/4329708185343800_.mp4 ]
+
+
+0:0:39.63
+duration=00:00:46.13
+how_Long=0:0:39.63
+file_name=D:\do\alltest\video2019-01-20\4329709111624241\4329709111624241.mp4 file_path=D:\do\alltest\video2019-01-20\4329709111624241
+basename=4329709111624241.mp4
+new_name=D:\do\alltest\video2019-01-20\4329709111624241/4329709111624241_.mp4
+0:0:42.63
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 480)
+D:\do\alltest\video2019-01-20\4329709111624241/tmp_pic_001__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329709111624241/tmp_pic_002__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329709111624241/tmp_pic_003__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329709111624241/tmp_pic_004__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329709111624241/tmp_pic_005__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329709111624241/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 69.08 [133.90563802  37.91982639  35.4083724 ]  114.67  8402.11  14971.08
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   62.12% ['54.46%', '109.85%', '66.56%']  103.30%  92.06%  波幅3653169.68%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:1:49.71
+duration=00:01:56.21
+how_Long=0:1:49.71
+file_name=D:\do\alltest\video2019-01-20\4329718620747411\4329718620747411.mp4 file_path=D:\do\alltest\video2019-01-20\4329718620747411
+basename=4329718620747411.mp4
+new_name=D:\do\alltest\video2019-01-20\4329718620747411/4329718620747411_.mp4
+0:1:52.71
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718620747411/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718620747411/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718620747411/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718620747411/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718620747411/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718620747411/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 125.21 [137.97425351 120.85899688 116.79401103]  130.67  2999.21  2624.79
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   112.60% ['56.12%', '350.10%', '219.55%']  117.72%  32.86%  波幅640488.89%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:1:48.15
+duration=00:01:54.65
+how_Long=0:1:48.15
+file_name=D:\do\alltest\video2019-01-20\4329718742015266\4329718742015266.mp4 file_path=D:\do\alltest\video2019-01-20\4329718742015266
+basename=4329718742015266.mp4
+new_name=D:\do\alltest\video2019-01-20\4329718742015266/4329718742015266_.mp4
+0:1:51.15
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718742015266/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718742015266/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718742015266/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718742015266/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718742015266/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4329718742015266/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 62.13 [63.92812744 62.83212822 59.62835431]  64.33  672.94  591.93
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   55.87% ['26.00%', '182.01%', '112.09%']  57.96%  7.37%  波幅144441.11%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:8:33.95
+duration=00:08:40.45
+how_Long=0:8:33.95
+file_name=D:\do\alltest\video2019-01-20\4329762245894282\4329762245894282.mp4 file_path=D:\do\alltest\video2019-01-20\4329762245894282
+basename=4329762245894282.mp4
+new_name=D:\do\alltest\video2019-01-20\4329762245894282/4329762245894282_.mp4
+0:8:36.95
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4329762245894282/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329762245894282/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329762245894282/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329762245894282/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329762245894282/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4329762245894282/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.63 [241.97122396  60.68073785  59.24680556]  117.67  8473.06  1185.00
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.49% ['98.41%', '175.78%', '111.37%']  106.01%  92.83%  波幅289158.17%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329762245894282/4329762245894282_.mp4 ]
+
+
+0:1:9.32
+duration=00:01:15.82
+how_Long=0:1:9.32
+file_name=D:\do\alltest\video2019-01-20\4329766964176442\4329766964176442.mp4 file_path=D:\do\alltest\video2019-01-20\4329766964176442
+basename=4329766964176442.mp4
+new_name=D:\do\alltest\video2019-01-20\4329766964176442/4329766964176442_.mp4
+0:1:12.32
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(624, 360)
+D:\do\alltest\video2019-01-20\4329766964176442/tmp_pic_001__crop_.png
+(624, 360)
+D:\do\alltest\video2019-01-20\4329766964176442/tmp_pic_002__crop_.png
+(624, 360)
+D:\do\alltest\video2019-01-20\4329766964176442/tmp_pic_003__crop_.png
+(624, 360)
+D:\do\alltest\video2019-01-20\4329766964176442/tmp_pic_004__crop_.png
+(624, 360)
+D:\do\alltest\video2019-01-20\4329766964176442/tmp_pic_005__crop_.png
+(624, 360)
+D:\do\alltest\video2019-01-20\4329766964176442/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 117.94 [236.58393429  59.34443554  57.89774751]  117.33  8593.92  2422.83
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   106.07% ['96.22%', '171.91%', '108.84%']  105.71%  94.16%  波幅591207.63%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4329766964176442/4329766964176442_.mp4 ]
+
+
+0:0:15.57
+duration=00:00:22.07
+how_Long=0:0:15.57
+file_name=D:\do\alltest\video2019-01-20\4329769217111947\4329769217111947.mp4 file_path=D:\do\alltest\video2019-01-20\4329769217111947
+basename=4329769217111947.mp4
+new_name=D:\do\alltest\video2019-01-20\4329769217111947/4329769217111947_.mp4
+0:0:18.57
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 480)
+D:\do\alltest\video2019-01-20\4329769217111947/tmp_pic_001__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329769217111947/tmp_pic_002__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329769217111947/tmp_pic_003__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329769217111947/tmp_pic_004__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329769217111947/tmp_pic_005__crop_.png
+(480, 480)
+D:\do\alltest\video2019-01-20\4329769217111947/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 69.04 [133.85331597  37.89980469  35.37678819]  114.67  8394.37  14957.01
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   62.09% ['54.44%', '109.79%', '66.50%']  103.30%  91.97%  波幅3649738.39%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:12:51.02
+duration=00:12:57.52
+how_Long=0:12:51.02
+file_name=D:\do\alltest\video2019-01-20\4330110255553491\4330110255553491.mp4 file_path=D:\do\alltest\video2019-01-20\4330110255553491
+basename=4330110255553491.mp4
+new_name=D:\do\alltest\video2019-01-20\4330110255553491/4330110255553491_.mp4
+0:12:54.02
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(852, 480)
+D:\do\alltest\video2019-01-20\4330110255553491/tmp_pic_001__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330110255553491/tmp_pic_002__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330110255553491/tmp_pic_003__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330110255553491/tmp_pic_004__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330110255553491/tmp_pic_005__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330110255553491/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.94 [242.52672144  60.88983764  59.41704568]  117.67  8497.26  1107.38
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.77% ['98.64%', '176.39%', '111.69%']  106.01%  93.10%  波幅270217.65%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330110255553491/4330110255553491_.mp4 ]
+
+
+0:0:24.26
+duration=00:00:30.76
+how_Long=0:0:24.26
+file_name=D:\do\alltest\video2019-01-20\4330149686183355\4330149686183355.mp4 file_path=D:\do\alltest\video2019-01-20\4330149686183355
+basename=4330149686183355.mp4
+new_name=D:\do\alltest\video2019-01-20\4330149686183355/4330149686183355_.mp4
+0:0:27.26
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4330149686183355/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330149686183355/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330149686183355/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330149686183355/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330149686183355/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330149686183355/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.16 [243.66165349  58.86157299  57.94297912]  117.67  8429.26  868.58
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.06% ['99.10%', '170.51%', '108.92%']  106.01%  92.35%  波幅211947.17%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330149686183355/4330149686183355_.mp4 ]
+
+
+0:0:9.07
+duration=00:00:15.57
+how_Long=0:0:9.07
+file_name=D:\do\alltest\video2019-01-20\4330149803499088\4330149803499088.mp4 file_path=D:\do\alltest\video2019-01-20\4330149803499088
+basename=4330149803499088.mp4
+new_name=D:\do\alltest\video2019-01-20\4330149803499088/4330149803499088_.mp4
+0:0:12.07
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(848, 480)
+D:\do\alltest\video2019-01-20\4330149803499088/tmp_pic_001__crop_.png
+(848, 480)
+D:\do\alltest\video2019-01-20\4330149803499088/tmp_pic_002__crop_.png
+(848, 480)
+D:\do\alltest\video2019-01-20\4330149803499088/tmp_pic_003__crop_.png
+(848, 480)
+D:\do\alltest\video2019-01-20\4330149803499088/tmp_pic_004__crop_.png
+(848, 480)
+D:\do\alltest\video2019-01-20\4330149803499088/tmp_pic_005__crop_.png
+(848, 480)
+D:\do\alltest\video2019-01-20\4330149803499088/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.45 [241.56887284  60.46775501  59.32693593]  117.67  8518.83  1342.99
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.33% ['98.25%', '175.16%', '111.53%']  106.01%  93.34%  波幅327709.09%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330149803499088/4330149803499088_.mp4 ]
+
+
+0:0:8.60
+duration=00:00:15.10
+how_Long=0:0:8.60
+file_name=D:\do\alltest\video2019-01-20\4330153435832544\4330153435832544.mp4 file_path=D:\do\alltest\video2019-01-20\4330153435832544
+basename=4330153435832544.mp4
+new_name=D:\do\alltest\video2019-01-20\4330153435832544/4330153435832544_.mp4
+0:0:11.60
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 848)
+D:\do\alltest\video2019-01-20\4330153435832544/tmp_pic_001__crop_.png
+(480, 848)
+D:\do\alltest\video2019-01-20\4330153435832544/tmp_pic_002__crop_.png
+(480, 848)
+D:\do\alltest\video2019-01-20\4330153435832544/tmp_pic_003__crop_.png
+(480, 848)
+D:\do\alltest\video2019-01-20\4330153435832544/tmp_pic_004__crop_.png
+(480, 848)
+D:\do\alltest\video2019-01-20\4330153435832544/tmp_pic_005__crop_.png
+(480, 848)
+D:\do\alltest\video2019-01-20\4330153435832544/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 122.91 [238.52119939  67.41191038  62.80916618]  117.00  8450.35  1855.92
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   110.54% ['97.01%', '195.28%', '118.07%']  105.41%  92.58%  波幅452872.05%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330153435832544/4330153435832544_.mp4 ]
+
+
+0:3:19.86
+duration=00:03:26.36
+how_Long=0:3:19.86
+file_name=D:\do\alltest\video2019-01-20\4330162868642478\4330162868642478.mp4 file_path=D:\do\alltest\video2019-01-20\4330162868642478
+basename=4330162868642478.mp4
+new_name=D:\do\alltest\video2019-01-20\4330162868642478/4330162868642478_.mp4
+0:3:22.86
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 272)
+D:\do\alltest\video2019-01-20\4330162868642478/tmp_pic_001__crop_.png
+(480, 272)
+D:\do\alltest\video2019-01-20\4330162868642478/tmp_pic_002__crop_.png
+(480, 272)
+D:\do\alltest\video2019-01-20\4330162868642478/tmp_pic_003__crop_.png
+(480, 272)
+D:\do\alltest\video2019-01-20\4330162868642478/tmp_pic_004__crop_.png
+(480, 272)
+D:\do\alltest\video2019-01-20\4330162868642478/tmp_pic_005__crop_.png
+(480, 272)
+D:\do\alltest\video2019-01-20\4330162868642478/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 117.59 [238.86287531  57.32277114  56.59245558]  117.33  8485.10  1917.29
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   105.75% ['97.15%', '166.05%', '106.38%']  105.71%  92.97%  波幅467848.64%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330162868642478/4330162868642478_.mp4 ]
+
+
+0:3:16.10
+duration=00:03:22.60
+how_Long=0:3:16.10
+file_name=D:\do\alltest\video2019-01-20\4330170984885833\4330170984885833.mp4 file_path=D:\do\alltest\video2019-01-20\4330170984885833
+basename=4330170984885833.mp4
+new_name=D:\do\alltest\video2019-01-20\4330170984885833/4330170984885833_.mp4
+0:3:19.10
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330170984885833/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330170984885833/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330170984885833/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330170984885833/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330170984885833/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330170984885833/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.34 [242.21450087  58.27632812  57.53989583]  117.67  8429.21  1171.78
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.33% ['98.51%', '168.82%', '108.17%']  106.01%  92.35%  波幅285933.14%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330170984885833/4330170984885833_.mp4 ]
+
+
+0:5:7.43
+duration=00:05:13.93
+how_Long=0:5:7.43
+file_name=D:\do\alltest\video2019-01-20\4330241708900034\4330241708900034.mp4 file_path=D:\do\alltest\video2019-01-20\4330241708900034
+basename=4330241708900034.mp4
+new_name=D:\do\alltest\video2019-01-20\4330241708900034/4330241708900034_.mp4
+0:5:10.43
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330241708900034/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330241708900034/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330241708900034/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330241708900034/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330241708900034/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330241708900034/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.34 [242.35269965  58.14541667  57.52094184]  117.67  8437.72  1173.33
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.32% ['98.57%', '168.44%', '108.13%']  106.01%  92.45%  波幅286310.83%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330241708900034/4330241708900034_.mp4 ]
+
+
+0:0:57.62
+duration=00:01:04.12
+how_Long=0:0:57.62
+file_name=D:\do\alltest\video2019-01-20\4330252366373746\4330252366373746.mp4 file_path=D:\do\alltest\video2019-01-20\4330252366373746
+basename=4330252366373746.mp4
+new_name=D:\do\alltest\video2019-01-20\4330252366373746/4330252366373746_.mp4
+0:1:0.62
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4330252366373746/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330252366373746/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330252366373746/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330252366373746/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330252366373746/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330252366373746/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 121.41 [243.54853142  61.00789666  59.66877683]  117.67  8506.64  881.47
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   109.18% ['99.06%', '176.73%', '112.17%']  106.01%  93.20%  波幅215093.25%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330252366373746/4330252366373746_.mp4 ]
+
+
+0:5:32.51
+duration=00:05:39.01
+how_Long=0:5:32.51
+file_name=D:\do\alltest\video2019-01-20\4330258658425619\4330258658425619.mp4 file_path=D:\do\alltest\video2019-01-20\4330258658425619
+basename=4330258658425619.mp4
+new_name=D:\do\alltest\video2019-01-20\4330258658425619/4330258658425619_.mp4
+0:5:35.51
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(852, 480)
+D:\do\alltest\video2019-01-20\4330258658425619/tmp_pic_001__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330258658425619/tmp_pic_002__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330258658425619/tmp_pic_003__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330258658425619/tmp_pic_004__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330258658425619/tmp_pic_005__crop_.png
+(852, 480)
+D:\do\alltest\video2019-01-20\4330258658425619/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.87 [242.4467234   60.79382336  59.36304773]  117.67  8482.01  1103.16
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.70% ['98.61%', '176.11%', '111.59%']  106.01%  92.93%  波幅269186.92%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330258658425619/4330258658425619_.mp4 ]
+
+
+0:0:46.10
+duration=00:00:52.60
+how_Long=0:0:46.10
+file_name=D:\do\alltest\video2019-01-20\4330304635867227\4330304635867227.mp4 file_path=D:\do\alltest\video2019-01-20\4330304635867227
+basename=4330304635867227.mp4
+new_name=D:\do\alltest\video2019-01-20\4330304635867227/4330304635867227_.mp4
+0:0:49.10
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330304635867227/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330304635867227/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330304635867227/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330304635867227/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330304635867227/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330304635867227/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.68 [242.03398003  60.66843316  59.33150608]  117.67  8463.35  1179.84
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.53% ['98.44%', '175.74%', '111.53%']  106.01%  92.73%  波幅287899.05%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330304635867227/4330304635867227_.mp4 ]
+
+
+0:1:58.58
+duration=00:02:05.08
+how_Long=0:1:58.58
+file_name=D:\do\alltest\video2019-01-20\4330307865836837\4330307865836837.mp4 file_path=D:\do\alltest\video2019-01-20\4330307865836837
+basename=4330307865836837.mp4
+new_name=D:\do\alltest\video2019-01-20\4330307865836837/4330307865836837_.mp4
+0:2:1.58
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330307865836837/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330307865836837/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330307865836837/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330307865836837/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330307865836837/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330307865836837/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.61 [241.90967882  60.64079861  59.27503472]  117.67  8460.20  1186.98
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.46% ['98.39%', '175.66%', '111.43%']  106.01%  92.69%  波幅289641.61%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330307865836837/4330307865836837_.mp4 ]
+
+
+0:9:58.21
+duration=00:10:04.71
+how_Long=0:9:58.21
+file_name=D:\do\alltest\video2019-01-20\4330428816717223\4330428816717223.mp4 file_path=D:\do\alltest\video2019-01-20\4330428816717223
+basename=4330428816717223.mp4
+new_name=D:\do\alltest\video2019-01-20\4330428816717223/4330428816717223_.mp4
+0:10:1.21
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330428816717223/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330428816717223/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330428816717223/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330428816717223/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330428816717223/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330428816717223/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.68 [242.04485243  60.67458767  59.32875868]  117.67  8467.12  1184.31
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.53% ['98.44%', '175.76%', '111.53%']  106.01%  92.77%  波幅288990.28%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330428816717223/4330428816717223_.mp4 ]
+
+
+0:5:50.66
+duration=00:05:57.16
+how_Long=0:5:50.66
+file_name=D:\do\alltest\video2019-01-20\4330430780110488\4330430780110488.mp4 file_path=D:\do\alltest\video2019-01-20\4330430780110488
+basename=4330430780110488.mp4
+new_name=D:\do\alltest\video2019-01-20\4330430780110488/4330430780110488_.mp4
+0:5:53.66
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330430780110488/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330430780110488/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330430780110488/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330430780110488/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330430780110488/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330430780110488/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.30 [242.30144531  58.10700955  57.5002474 ]  117.67  8434.46  1169.57
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.29% ['98.55%', '168.32%', '108.09%']  106.01%  92.41%  波幅285391.69%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330430780110488/4330430780110488_.mp4 ]
+
+
+0:4:5.72
+duration=00:04:12.22
+how_Long=0:4:5.72
+file_name=D:\do\alltest\video2019-01-20\4330439071507857\4330439071507857.mp4 file_path=D:\do\alltest\video2019-01-20\4330439071507857
+basename=4330439071507857.mp4
+new_name=D:\do\alltest\video2019-01-20\4330439071507857/4330439071507857_.mp4
+0:4:8.72
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330439071507857/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330439071507857/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330439071507857/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330439071507857/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330439071507857/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330439071507857/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.61 [241.94573785  60.6197309   59.27489149]  117.67  8460.42  1179.27
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.47% ['98.40%', '175.60%', '111.43%']  106.01%  92.70%  波幅287759.11%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330439071507857/4330439071507857_.mp4 ]
+
+
+0:10:4.35
+duration=00:10:10.85
+how_Long=0:10:4.35
+file_name=D:\do\alltest\video2019-01-20\4330457128650154\4330457128650154.mp4 file_path=D:\do\alltest\video2019-01-20\4330457128650154
+basename=4330457128650154.mp4
+new_name=D:\do\alltest\video2019-01-20\4330457128650154/4330457128650154_.mp4
+0:10:7.35
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330457128650154/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330457128650154/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330457128650154/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330457128650154/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330457128650154/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330457128650154/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.38 [242.23859375  58.31501302  57.57450955]  117.67  8427.62  1171.16
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.36% ['98.52%', '168.93%', '108.23%']  106.01%  92.34%  波幅285781.77%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330457128650154/4330457128650154_.mp4 ]
+
+
+0:0:41.34
+duration=00:00:47.84
+how_Long=0:0:41.34
+file_name=D:\do\alltest\video2019-01-20\4330457291622619\4330457291622619.mp4 file_path=D:\do\alltest\video2019-01-20\4330457291622619
+basename=4330457291622619.mp4
+new_name=D:\do\alltest\video2019-01-20\4330457291622619/4330457291622619_.mp4
+0:0:44.34
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(480, 600)
+D:\do\alltest\video2019-01-20\4330457291622619/tmp_pic_001__crop_.png
+(480, 600)
+D:\do\alltest\video2019-01-20\4330457291622619/tmp_pic_002__crop_.png
+(480, 600)
+D:\do\alltest\video2019-01-20\4330457291622619/tmp_pic_003__crop_.png
+(480, 600)
+D:\do\alltest\video2019-01-20\4330457291622619/tmp_pic_004__crop_.png
+(480, 600)
+D:\do\alltest\video2019-01-20\4330457291622619/tmp_pic_005__crop_.png
+(480, 600)
+D:\do\alltest\video2019-01-20\4330457291622619/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 86.74 [168.14203125  47.62317361  44.44329167]  116.00  9032.09  13060.59
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   78.00% ['68.39%', '137.96%', '83.55%']  104.50%  98.96%  波幅3186982.74%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:9:52.67
+duration=00:09:59.17
+how_Long=0:9:52.67
+file_name=D:\do\alltest\video2019-01-20\4330463675898492\4330463675898492.mp4 file_path=D:\do\alltest\video2019-01-20\4330463675898492
+basename=4330463675898492.mp4
+new_name=D:\do\alltest\video2019-01-20\4330463675898492/4330463675898492_.mp4
+0:9:55.67
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330463675898492/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330463675898492/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330463675898492/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330463675898492/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330463675898492/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330463675898492/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 120.61 [241.9135026   60.63982639  59.26503038]  117.67  8462.46  1184.57
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   108.46% ['98.39%', '175.66%', '111.41%']  106.01%  92.72%  波幅289054.18%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330463675898492/4330463675898492_.mp4 ]
+
+
+0:15:9.38
+duration=00:15:15.88
+how_Long=0:15:9.38
+file_name=D:\do\alltest\video2019-01-20\4330476317584482\4330476317584482.mp4 file_path=D:\do\alltest\video2019-01-20\4330476317584482
+basename=4330476317584482.mp4
+new_name=D:\do\alltest\video2019-01-20\4330476317584482/4330476317584482_.mp4
+0:15:12.38
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330476317584482/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330476317584482/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330476317584482/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330476317584482/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330476317584482/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330476317584482/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.47 [242.23664063  58.46453559  57.69844618]  117.67  8424.17  1168.82
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.44% ['98.52%', '169.36%', '108.46%']  106.01%  92.30%  波幅285209.55%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330476317584482/4330476317584482_.mp4 ]
+
+
+0:3:53.62
+duration=00:04:00.12
+how_Long=0:3:53.62
+file_name=D:\do\alltest\video2019-01-20\4330490963979772\4330490963979772.mp4 file_path=D:\do\alltest\video2019-01-20\4330490963979772
+basename=4330490963979772.mp4
+new_name=D:\do\alltest\video2019-01-20\4330490963979772/4330490963979772_.mp4
+0:3:56.62
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(854, 480)
+D:\do\alltest\video2019-01-20\4330490963979772/tmp_pic_001__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330490963979772/tmp_pic_002__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330490963979772/tmp_pic_003__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330490963979772/tmp_pic_004__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330490963979772/tmp_pic_005__crop_.png
+(854, 480)
+D:\do\alltest\video2019-01-20\4330490963979772/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 71.16 [71.37088456 71.22835919 70.87131391]  46.00  4763.41  4691.54
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   63.99% ['29.03%', '206.33%', '133.23%']  41.44%  52.19%  波幅1144807.73%
+tmp_pic_001.png 内无插入广告视频
+_______________________________________________________
+
+
+0:10:1.11
+duration=00:10:07.61
+how_Long=0:10:1.11
+file_name=D:\do\alltest\video2019-01-20\4330516217540511\4330516217540511.mp4 file_path=D:\do\alltest\video2019-01-20\4330516217540511
+basename=4330516217540511.mp4
+new_name=D:\do\alltest\video2019-01-20\4330516217540511/4330516217540511_.mp4
+0:10:4.11
+[]
+['tmp_pic_001.png', 'tmp_pic_002.png', 'tmp_pic_003.png', 'tmp_pic_004.png', 'tmp_pic_005.png', 'tmp_pic_006.png']
+(640, 360)
+D:\do\alltest\video2019-01-20\4330516217540511/tmp_pic_001__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330516217540511/tmp_pic_002__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330516217540511/tmp_pic_003__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330516217540511/tmp_pic_004__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330516217540511/tmp_pic_005__crop_.png
+(640, 360)
+D:\do\alltest\video2019-01-20\4330516217540511/tmp_pic_006__crop_.png
+['tmp_pic_001.png', 'tmp_pic_001__crop_.png', 'tmp_pic_002.png', 'tmp_pic_002__crop_.png', 'tmp_pic_003.png', 'tmp_pic_003__crop_.png', 'tmp_pic_004.png', 'tmp_pic_004__crop_.png', 'tmp_pic_005.png', 'tmp_pic_005__crop_.png', 'tmp_pic_006.png', 'tmp_pic_006__crop_.png']
+对照数据 119.53 [242.27981771  58.53911024  57.77368924]  117.67  8424.80  1173.15
+样本数据 111.20 [245.8712  34.5208  53.196 ]  111.00  9127.14  0.41
+相似度   107.50% ['98.54%', '169.58%', '108.61%']  106.01%  92.30%  波幅286266.23%
+tmp_pic_001.png 是[垃圾广告]截图
+_______________________________________________________
+从视频中剔出广告视频,生成新视频文件 [ D:\do\alltest\video2019-01-20\4330516217540511/4330516217540511_.mp4 ]
+
+
+
+
+____________
+Total vidoes = 44
+Included adversion videos have : 29
+>>> 
